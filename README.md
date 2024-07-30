@@ -11,4 +11,6 @@
 如果机器先手 玩家第一步失误，机器能保证必赢
 
 如果使用了这段代码 请点个Star
-![image](https://github.com/user-attachments/assets/4c7f19b2-e077-4fb1-b79a-3ef28541828a)
+
+![image](https://github.com/user-attachments/assets/49c82cbd-2e3b-48f1-afca-f676f605f451)
+
